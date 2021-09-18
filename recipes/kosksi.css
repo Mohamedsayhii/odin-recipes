@@ -1,0 +1,26 @@
+body {
+	background-color: teal;
+	color: azure;
+}
+
+#titre {
+	text-align: center;
+}
+
+#kosksi {
+	width: 30%;
+	display: block;
+	margin: auto;
+}
+
+p {
+	text-align: justify;
+}
+
+ul {
+	list-style-position: inside;
+}
+
+ol {
+	list-style-position: inside;
+}
